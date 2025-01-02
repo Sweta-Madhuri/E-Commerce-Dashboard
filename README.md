@@ -1,6 +1,6 @@
 Hello everyone!!
 
-I'm thrilled to present my very first Power BI Dashboards that I learned to create during the Live Training at Microsoft Project (NIIT Foundation), led by our instructor Akshay Kamble
+I'm thrilled to present my very first Power BI Dashboards.
 
 Overview Page: The overview page is the Initial page of my dashboard which is intentionally designed to be simple, featuring three essential KPIs and a smart narrative that encapsulates the entire report.
 
